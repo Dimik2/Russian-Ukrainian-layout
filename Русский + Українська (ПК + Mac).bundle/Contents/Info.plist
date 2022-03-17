@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.русский+украинский(ё)</string>
+	<key>CFBundleName</key>
+	<string>Українська + Русский</string>
+	<key>CFBundleVersion</key>
+	<string></string>
+	<key>KLInfo_Русский + Українська (Mac)</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.русский+украинский(ё).русский+українська(mac)</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru-UA</string>
+	</dict>
+	<key>KLInfo_Русский + Українська (ПК)</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.русский+украинский(ё).русский+українська(пк)</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru-UA</string>
+	</dict>
+	<key>KLInfo_Українська + Русский (Mac)</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.русский+украинский(ё).українська+русский(mac)</string>
+		<key>TISIntendedLanguage</key>
+		<string>uk-UA</string>
+	</dict>
+	<key>KLInfo_Українська + Русский (ПК)</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.русский+украинский(ё).українська+русский(пк)</string>
+		<key>TISIntendedLanguage</key>
+		<string>uk-UA</string>
+	</dict>
+</dict>
+</plist>
